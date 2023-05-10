@@ -1,0 +1,69 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Level1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 76.33333333333331,
+                "y": 74.33333333333331
+            }
+        },
+        "Level2.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 73.66666666666667,
+                "y": 64.66666666666667
+            }
+        },
+        "Shop+Resturant.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "TemplePark.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "untitled.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 78,
+                "y": 120
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Zissk/Documents/GitHub/GBShowdown/MockUp Stealth Game/assets/backgrounds",
+    "map.height": 18,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 20,
+    "openFiles": [
+        "Shop+Resturant.tsx",
+        "TemplePark.tsx",
+        "untitled.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "untitled.tmx",
+        "Shop+Resturant.tsx",
+        "TemplePark.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
