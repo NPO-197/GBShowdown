@@ -1,0 +1,94 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Beach.tmx": {
+            "scale": 2.15234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 140.54446460980034,
+                "y": 128.2323049001815
+            }
+        },
+        "FishingSpot.tmx": {
+            "scale": 2.15234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128,
+                "y": 128.2323049001815
+            }
+        },
+        "Forest.tmx": {
+            "scale": 2.15234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128,
+                "y": 128.2323049001815
+            }
+        },
+        "Map1.tmx": {
+            "scale": 2.295833333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 146.13430127041744,
+                "y": 79.27404718693286
+            }
+        },
+        "Oracle.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Raft Location.tmx": {
+            "scale": 2.15234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128,
+                "y": 127.76769509981851
+            }
+        },
+        "Ruined Town.tmx": {
+            "scale": 2.15234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 150.30127041742287,
+                "y": 126.83847549909257
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Zissk/Documents/GitHub/GBShowdown/Submission/assets/backgrounds/GBOracles Environment Pack",
+    "map.height": 18,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 20,
+    "openFiles": [
+        "Oracle.tsx",
+        "Map1.tmx",
+        "Beach.tmx",
+        "Ruined Town.tmx",
+        "FishingSpot.tmx",
+        "Raft Location.tmx",
+        "Forest.tmx"
+    ],
+    "project": "submit.tiled-project",
+    "recentFiles": [
+        "Oracle.tsx",
+        "Map1.tmx",
+        "Beach.tmx",
+        "Ruined Town.tmx",
+        "FishingSpot.tmx",
+        "Raft Location.tmx",
+        "Forest.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
